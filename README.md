@@ -1,10 +1,10 @@
 ### Hi there 👋
 <div style="width:100%;">
 <a href="https://github.com/RoaraeonLiou">
-  <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=RoaraeonLiou&show_icons=true" height="150"/>
+  <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=RoaraeonLiou&show_icons=true" height="200"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoaraeonLiou&hide=jupyternotebook" height="150"/>
+  <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoaraeonLiou&hide=jupyternotebook" height="200"/>
 </a>
 </div>
 

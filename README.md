@@ -50,35 +50,27 @@ Here are some ideas to get you started:
 </a>
 
 -->
+
+# Pinned
+
+
 <a href="https://github.com/RoaraeonLiou/Qt-based-algorithms-run-visualization-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Qt-based-algorithms-run-visualization-Application" />
+</a>
+<a href="https://github.com/RoaraeonLiou/ProcessBar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" />
+</a>
+<a href="https://github.com/RoaraeonLiou/SimCodeRetrieve">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=SimCodeRetrieve" />
+</a>
+<a href="https://github.com/RoaraeonLiou/bug_classification_based_on_LDA_theme_characteristics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=bug_classification_based_on_LDA_theme_characteristics" />
+</a>
+<a href="https://github.com/RoaraeonLiou/Networking_Course_Design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" />
 </a>
 <a href="https://github.com/RoaraeonLiou/Proteus-Electronic-clock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Proteus-Electronic-clock" />
 </a>
 
-# Pinned
-<div style="width:80%;height:50px;">
-  <a href="https://github.com/anuraghazra/Qt-based-algorithms-run-visualization-Application">
-    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Qt-based-algorithms-run-visualization-Application" />
-  </a>
-  <a href="https://github.com/anuraghazra/Proteus-Electronic-clock">
-    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Proteus-Electronic-clock" />
-  </a>
-</div>
-<div style="width:100%;">
-  <a href="https://github.com/anuraghazra/SimCodeRetrieve">
-    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=SimCodeRetrieve" />
-  </a>
-  <a href="https://github.com/anuraghazra/bug_classification_based_on_LDA_theme_characteristics">
-    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=bug_classification_based_on_LDA_theme_characteristics" />
-  </a>
-</div>
-<div style="width=80%;">
-  <a href="https://github.com/anuraghazra/Networking_Course_Design">
-    <img style="display:inline-block;float:left;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" height="180" width="400"/>
-  </a>
-  <a href="https://github.com/anuraghazra/ProcessBar">
-    <img style="display:inline-block;float:left;;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" height="180" width="400"/>
-  </a>
-</div>
+

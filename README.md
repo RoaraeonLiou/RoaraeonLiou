@@ -70,9 +70,9 @@ Here are some ideas to get you started:
 </div>
 <div style="width=80%;">
   <a href="https://github.com/anuraghazra/Networking_Course_Design">
-    <img style="display:inline-block;float:left;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" height="180" width="600"/>
+    <img style="display:inline-block;float:left;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" height="180" width="400"/>
   </a>
   <a href="https://github.com/anuraghazra/ProcessBar">
-    <img style="display:inline-block;float:left;;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" height="180" width="600"/>
+    <img style="display:inline-block;float:left;;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" height="180" width="400"/>
   </a>
 </div>

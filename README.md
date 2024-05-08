@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2977CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+to+RLTea's+Github)](https://git.io/typing-svg)
 
+<img align="center" src="https://komarev.com/ghpvc/?username=RoaraeonLiou" />
+
 <div style="width:100%;">
 <a href="https://github.com/RoaraeonLiou">
   <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=RoaraeonLiou&show_icons=true" height="180"/>
@@ -18,7 +20,7 @@
 -->
 
 ### T&T
-+ ![RoaraeonLiou](https://komarev.com/ghpvc/?username=RoaraeonLiou)
+
 <!-- [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://github.com/RoaraeonLiou) -->
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

@@ -17,11 +17,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=RoaraeonLiou&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&card_width=300)](https://github.com/RoaraeonLiou)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoaraeonLiou&layout=compact&exclude_repo=RoaraeonLiou.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&height=30)](https://github.com/RoaraeonLiou)
 -->
 
-
+### T&T
 + ![RoaraeonLiou](https://komarev.com/ghpvc/?username=RoaraeonLiou)
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://github.com/RoaraeonLiou)
 
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 <!--
 🌱 It's RLTEA space.
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Qt-based-algorithms-run-visualization-Application" />
 </a>
 
--->
+
 
 # Pinned
 
@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/RoaraeonLiou/Proteus-Electronic-clock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Proteus-Electronic-clock" />
 </a>
-
+-->
 

@@ -49,20 +49,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-<style>
-  .img-container{
-    width=100%;
-  }
-  .img-container img{
-    display: inline-block;
-    float:left;
-    width: 50%;
-  }
-</style>
 -->
 
 # Pinned
-<div style="width:100%;">
+<div style="width:100%;height:50px;">
   <a href="https://github.com/anuraghazra/Qt-based-algorithms-run-visualization-Application">
     <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Qt-based-algorithms-run-visualization-Application" />
   </a>

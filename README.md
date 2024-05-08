@@ -68,11 +68,11 @@ Here are some ideas to get you started:
     <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=bug_classification_based_on_LDA_theme_characteristics" />
   </a>
 </div>
-<div style="width:100%;">
+<div style="width=80%;">
   <a href="https://github.com/anuraghazra/Networking_Course_Design">
-    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" height="100"/>
+    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" height="180"/>
   </a>
   <a href="https://github.com/anuraghazra/ProcessBar">
-    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" height="100" />
+    <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" height="180" />
   </a>
 </div>

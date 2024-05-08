@@ -2,9 +2,10 @@
 <!-- ![Header](https://raw.githubusercontent.com/RoaraeonLiou/RoaraeonLiou/main/github-header-image.png) -->
 <!-- ![Header](./github-header-image.png) -->
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/RoaraeonLiou/RoaraeonLiou/main/github-header-image.png"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=RoaraeonLiou" />
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2977CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+to+RLTea's+Github" />
+  <img stype="display:block;" src="https://raw.githubusercontent.com/RoaraeonLiou/RoaraeonLiou/main/github-header-image.png"> 
+  
+  <img stype="display:block;" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2977CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+to+RLTea's+Github" />
+  <img stype="display:block;" align="center" src="https://komarev.com/ghpvc/?username=RoaraeonLiou" />
 </div>
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2977CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+to+RLTea's+Github)](https://git.io/typing-svg)

@@ -34,13 +34,13 @@
 <!--  skill badge 技能徽章 -->
 <div align="center" >
   
-![Java Badge](https://img.shields.io/badge/Java-61DAFB?logo=java&logoColor=000&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-61DAFB?logo=openjdk&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-41CD52?logo=c&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)

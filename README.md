@@ -43,6 +43,27 @@
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
+<!--  skill badge 技能徽章 -->
+
+![Java Badge](https://img.shields.io/badge/Java-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+
 <!--
 🌱 It's RLTEA space.
 **RoaraeonLiou/RoaraeonLiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -61,36 +82,5 @@ Here are some ideas to get you started:
 
 
 <!--https://cloud.tencent.com/developer/article/1866501-->
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/RoaraeonLiou/Qt-based-algorithms-run-visualization-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Qt-based-algorithms-run-visualization-Application" />
-</a>
 
-
-
-# Pinned
-
-
-<a href="https://github.com/RoaraeonLiou/Qt-based-algorithms-run-visualization-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Qt-based-algorithms-run-visualization-Application" />
-</a>
-<a href="https://github.com/RoaraeonLiou/ProcessBar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=ProcessBar" />
-</a>
-<a href="https://github.com/RoaraeonLiou/SimCodeRetrieve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=SimCodeRetrieve" />
-</a>
-<a href="https://github.com/RoaraeonLiou/bug_classification_based_on_LDA_theme_characteristics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=bug_classification_based_on_LDA_theme_characteristics" />
-</a>
-<a href="https://github.com/RoaraeonLiou/Networking_Course_Design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Networking_Course_Design" />
-</a>
-<a href="https://github.com/RoaraeonLiou/Proteus-Electronic-clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RoaraeonLiou&repo=Proteus-Electronic-clock" />
-</a>
--->
 

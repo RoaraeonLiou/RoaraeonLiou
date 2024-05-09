@@ -28,7 +28,7 @@
 </div>
 
 
-<br/>
+<hr/>
 
 
 <!--  skill badge 技能徽章 -->
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-<!--https://cloud.tencent.com/developer/article/1866501-->
+https://cloud.tencent.com/developer/article/1866501
 -->
 
 

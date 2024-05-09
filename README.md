@@ -1,6 +1,5 @@
 <!-- ### Hi there 👋 -->
-<!-- ![Header](https://raw.githubusercontent.com/RoaraeonLiou/RoaraeonLiou/main/github-header-image.png) -->
-<!-- ![Header](./github-header-image.png) -->
+<!-- 头部展示 -->
 <div align="center"> 
   <img src="https://raw.githubusercontent.com/RoaraeonLiou/RoaraeonLiou/main/github-header-image.png"> 
   <div style="height:2;"></div>
@@ -18,8 +17,7 @@
 </div>
 
 
-
-
+<!--  Github 信息展示 -->
 <div style="width:100%;">
 <a href="https://github.com/RoaraeonLiou">
   <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api?username=RoaraeonLiou&show_icons=true" height="180"/>
@@ -28,20 +26,10 @@
   <img style="display:inline-block;float:left;width=50%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoaraeonLiou&hide=jupyter%20notebook&layout=compact" height="180"/>
 </a>
 </div>
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=RoaraeonLiou&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&card_width=300)](https://github.com/RoaraeonLiou)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoaraeonLiou&layout=compact&exclude_repo=RoaraeonLiou.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&height=30)](https://github.com/RoaraeonLiou)
--->
 
-### T&T
 
-<!-- [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://github.com/RoaraeonLiou) -->
+<br/>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
 <!--  skill badge 技能徽章 -->
 <div align="center" >
@@ -80,9 +68,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+<!--https://cloud.tencent.com/developer/article/1866501-->
 -->
 
 
-<!--https://cloud.tencent.com/developer/article/1866501-->
+
 
 

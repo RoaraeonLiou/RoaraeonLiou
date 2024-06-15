@@ -5,11 +5,17 @@
   <div style="height:2;"></div>
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2977CB&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+to+RLTea's+Github" />
   <div>&nbsp;</div>
+  
   Ever tried, ever failed. 
+  
   No matter.
+  
   Try again, fail again.
+  
   Fail better. 
+  
   Treat everyone kindly, and light up the night.
+  
   <div>&nbsp;</div>
   <a href="https://blog.csdn.net/u012703894?type=blog"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <a href="https://space.bilibili.com/45285286/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
